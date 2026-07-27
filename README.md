@@ -26,4 +26,4 @@ Basé à Lausanne 🇨🇭 | Ouvert aux opportunités remote Europe
 ## Contact
 
 📧 thomas.rerolle1997@gmail.com  
-💼 [LinkedIn]([www.linkedin.com/in/thomas-rérolle])
+💼 [LinkedIn]([[www.linkedin.com/in/thomas-rérolle]])
